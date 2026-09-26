@@ -232,7 +232,7 @@ a[href] {
   right: -9%;
   width: min(82vw, 1260px);
   height: 94%;
-  background-image: url('src/assets/nebilux-nebula.png');
+  background-image: url('../assets/nebilux-nebula.png');
   background-position: center;
   background-size: cover;
   filter: saturate(0.78) contrast(1.07);
